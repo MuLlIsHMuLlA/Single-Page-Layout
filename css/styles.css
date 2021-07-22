@@ -1,0 +1,35 @@
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.pic {
+    width: 100px;
+    height: 30px;
+    padding: 4px;
+}
+
+.carousel-inner {
+    height: 600px;
+}
+
+.plans {
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+
+.footer {
+    background-color: hsl(224, 77%, 24%);
+    color: white;
+    padding: 1rem 0;
+}
+
+h5 {
+    color: hsl(36, 92%, 36%);
+}
+
+h6 {
+    color: hsl(103, 93%, 35%);
+}
